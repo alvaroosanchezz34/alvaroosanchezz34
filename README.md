@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React, Python...**
 
-- 👨‍💻 All of my projects are available at [Coming soon...](Coming soon...)
+- 👨‍💻 All of my projects are available at 'Coming soon...'
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/alvaro-sanchez-ortega-06bb82394/](https://www.linkedin.com/in/alvaro-sanchez-ortega-06bb82394/)
 
