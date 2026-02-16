@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React, Python...**
 
-- 👨‍💻 All of my projects are available at 'sanchezdevelop.com'
+- 👨‍💻 All of my projects are available at (sanchezdevelop.com)
 
 - 📫 How to reach me **alvarosanchezortega34@gmail.com**
 
