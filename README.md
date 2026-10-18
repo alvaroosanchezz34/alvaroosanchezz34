@@ -1,32 +1,161 @@
-<h1 align="center">Hi 👋, I'm Alvaro Sanchez Ortega</h1>
-<h3 align="center">A passionate Full-stack developer from Spain</h3>
+# 👋 Hi, I'm Álvaro Sánchez Ortega
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alvaroosanchezz34&label=Profile%20views&color=0e75b6&style=flat" alt="alvaroosanchezz34" /> </p>
+### Full-Stack Developer · SaaS Builder · AI & Game Development Enthusiast
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alvaroosanchezz34" alt="alvaroosanchezz34" /></a> </p>
+I'm a developer from Spain passionate about building useful digital products, designing modern web applications, and turning ideas into working software.
 
-- 🔭 I’m currently working on **Work-Ly**
+I enjoy working across the entire development process — from designing user interfaces and building APIs to integrating databases, authentication systems, and AI-powered features. I'm constantly learning, experimenting with new technologies, and developing projects that solve real problems.
 
-- 🌱 I’m currently learning **React, Python...**
+- 🚀 **Building:** SaaS products, AI-powered applications, and interactive experiences.
+- 🧠 **Exploring:** Artificial intelligence, automation, modern web architectures, and game development.
+- 💻 **Core focus:** Full-stack development, product engineering, and scalable applications.
+- 🌍 **Based in:** Spain.
+- 🎯 **Goal:** Build impactful products, grow as a developer, and turn innovative ideas into successful software.
+- 🌐 **Portfolio:** [sanchezdevelop.com](https://sanchezdevelop.com)
+- 📫 **Email:** [alvarosanchezortega34@gmail.com](mailto:alvarosanchezortega34@gmail.com)
+- 💼 **LinkedIn:** [Álvaro Sánchez Ortega](https://www.linkedin.com/in/alvaro-sanchez-ortega-06bb82394/)
 
-- 👨‍💻 All of my projects are available at [sanchezdevelop.com](https://sanchezdevelop.com/)
+---
 
-- 📫 How to reach me **alvarosanchezortega34@gmail.com**
+## 🚀 Featured Projects
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/alvaro-sanchez-ortega-06bb82394/](https://www.linkedin.com/in/alvaro-sanchez-ortega-06bb82394/)
+### 🤖 ResumeAI — AI-Powered Learning Platform
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/alvaro-sanchez-ortega-06bb82394/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alvaro sanchez ortega" height="30" width="40" /></a>
-<a href="https://www.instagram.com/alvaroosanchezz34/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alvaroosanchezz34 // sanchezdevelop" height="30" width="40" /></a>
-<a href="https://www.instagram.com/sanchezdevelop/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alvaroosanchezz34 // sanchezdevelop" height="30" width="40" /></a>
+An educational SaaS designed to help students and professionals understand complex information and study more efficiently.
+
+- 🧠 AI-powered summaries and explanations.
+- 📄 Text and document processing.
+- 📝 Automatic generation of quizzes, open-ended questions, and flashcards.
+- 📚 Learning history and personalized study workflows.
+- ⚙️ Full-stack architecture with AI integration.
+
+**Tech stack:** React, Next.js, Tailwind CSS, Node.js, Express, MongoDB, JWT, OpenAI API.
+
+🔗 [Visit ResumeAI](https://resume-ai.dev) · [Portfolio](https://sanchezdevelop.com)
+
+### 📊 Work-Ly — Freelancer Management Platform
+
+An ERP-style web application designed to help freelancers organize and manage their professional activities in one place.
+
+- 🗂️ Business information and workflow management.
+- 📊 Structured interfaces for managing professional operations.
+- 🧩 Modular frontend architecture.
+- 🔌 Full-stack application development.
+
+**Tech stack:** React, Vite, Tailwind CSS, Material UI, Node.js.
+
+### 🎮 Roblox Game Development
+
+Exploring game design and interactive experiences through Roblox Studio, with a focus on progression systems, satisfying gameplay loops, stylized visuals, animations, and engaging player experiences.
+
+- ⚔️ Gameplay mechanics and progression systems.
+- ✨ Anime-inspired visual effects and combat experiences.
+- 🗺️ World, enemy, and item design.
+- 🛠️ Luau scripting and development workflows.
+
+**Tools:** Roblox Studio, Luau, Rojo, Git, AI-assisted development tools.
+
+### 🔬 BotTrading2 — Solana Research & Paper Trading
+
+An experimental platform for researching Solana tokens and evaluating trading strategies in a simulated environment.
+
+- 🔎 Token discovery and analysis.
+- 🛡️ On-chain security checks.
+- 📈 Historical data and strategy backtesting.
+- 🧪 Simulated trading and performance tracking.
+- 📊 Dashboard for analyzing experimental strategies.
+
+**Focus:** JavaScript/TypeScript development, data analysis, automation, and risk-aware experimentation.
+
+*Experimental project: simulation and research rather than automatic real-money trading.*
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,vite,tailwind,bootstrap,materialui" alt="Frontend technologies" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+### Backend Development
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alvaroosanchezz34&show_icons=true&locale=en&layout=compact" alt="alvaroosanchezz34" /></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,spring" alt="Backend technologies" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alvaroosanchezz34&show_icons=true&locale=en" alt="alvaroosanchezz34" /></p>
+### Databases & Data
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alvaroosanchezz34&" alt="alvaroosanchezz34" /></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite" alt="Database technologies" />
+</p>
+
+### Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,figma,androidstudio,flutter,unity,robloxstudio" alt="Development tools and platforms" />
+</p>
+
+### Other Technologies & Interests
+
+- **AI integration:** OpenAI API, LLM-powered features, and AI-assisted development.
+- **API development:** REST APIs, authentication, and backend integrations.
+- **Testing:** Jest and application testing fundamentals.
+- **Data visualization:** Chart.js.
+- **Additional experience:** C++, Dart, Pug, and Microsoft SQL Server.
+
+*This list reflects technologies I've worked with or explored; my main focus is full-stack web development.*
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=alvaroosanchezz34&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Álvaro's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvaroosanchezz34&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=alvaroosanchezz34&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=alvaroosanchezz34&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub profile trophies" />
+</p>
+
+---
+
+## 🌱 What I'm Working Towards
+
+- 🚀 Building and improving real-world SaaS products.
+- 🤖 Exploring practical applications of artificial intelligence.
+- 🧩 Improving software architecture, code quality, and maintainability.
+- 🎮 Developing interactive games and experimenting with game mechanics.
+- 📚 Continuously improving my skills through hands-on projects.
+- 🤝 Collaborating with other developers and contributing to meaningful projects.
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in technology, new ideas, challenging projects, and opportunities to collaborate with other developers.
+
+<p align="left">
+  <a href="https://sanchezdevelop.com">
+    <img src="https://img.shields.io/badge/Portfolio-SanchezDevelop-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/alvaro-sanchez-ortega-06bb82394/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:alvarosanchezortega34@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.instagram.com/sanchezdevelop/">
+    <img src="https://img.shields.io/badge/Instagram-SanchezDevelop-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
+
+<p align="center">
+  <i>"Build, learn, iterate, and turn ideas into reality."</i>
+</p>
